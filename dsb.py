@@ -12,7 +12,7 @@ init(autoreset=True)
 os.system("clear")  # لمسح الشاشة في Termux أو أي بيئة طرفية
 
 # وضع التوكن الخاص بك هنا
-token = "NzgyNTU3NjgzMjU3NTczMzk2.X8N72Q.A7SZlVYrlaV2fobhtrAwD63SroM"
+token = "MTMxNTg3ODE2NTgwOTMzNjM2MA.GmXiiP.3JT1z7EFtpehARHWqIVOUqeuaDsuBVvww1d4ao"
 
 # دالة للتحقق من المدخلات الصحيحة
 def get_valid_number():
