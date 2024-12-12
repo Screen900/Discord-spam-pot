@@ -16,3 +16,5 @@ pkg install git
 
 # Very important 
 
+pip install requests colorama pyfiglet
+
