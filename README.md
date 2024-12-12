@@ -18,3 +18,11 @@ pkg install git
 
 pip install requests colorama pyfiglet
 
+git clone https://github.com/Screen900/Discord-spam-pot.git
+
+# For open tool
+cd Discord-spam-pot
+
+# For run the tool
+
+python3 dsb.py
